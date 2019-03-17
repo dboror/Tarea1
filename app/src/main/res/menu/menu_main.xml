@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.galileo.tearea1.MainActivity">
+    <item
+        android:id="@+id/action_main"
+        android:orderInCategory="100"
+        android:title="Datos de Tarjeta"
+        />
+    <item
+        android:id="@+id/action_login"
+        android:orderInCategory="100"
+        android:title="login"
+        />
+    <item
+        android:id="@+id/action_reward"
+        android:orderInCategory="100"
+        android:title="Reward"
+        />
+    <item
+        android:id="@+id/action_reward"
+        android:orderInCategory="100"
+        android:title="Radio Button"
+        />
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tearea1</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="tipo_documento">
+        <item>DNI</item>
+        <item>DPI</item>
+    </string-array>
+</resources>
