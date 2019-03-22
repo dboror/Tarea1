@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             setTitle("Google Option Reward");
         }
 
-        if (id == R.id.action_reward) {
+        if (id == R.id.action_button) {
             setContentView(R.layout.activity_button);
         }
 
